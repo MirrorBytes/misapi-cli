@@ -6,6 +6,10 @@
   "bin": {
     "misapi": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MirrorBytes/misapi-cli"
+  },
   "dependencies": {
     "chalk": "^1.1.3",
     "clear": "^0.0.1",
